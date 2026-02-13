@@ -1,0 +1,10 @@
+py-youtube
+ensure
+mkdocs-material
+
+
+# dev requirements
+pytest
+tox      # System testing
+flake8
+mypy
